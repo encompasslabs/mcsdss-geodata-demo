@@ -1,12 +1,15 @@
+/*
 ---
- name: The Name of the Demo
+ name: MCSDSS GeoJSON Demo
  description: A demo of the MCSDSS leaflet map using geoJSON to display data.
  authors:
-   - John Gentle
-   - Suzanne Pierce
+  - John Gentle
+  - Suzanne Pierce
  resources:
-   - /js/empty.js
-   - /css/normalize.css
+  - /js/empty.js
+  - /css/normalize.css
  normalize_css: yes
  lang_css: CSS
  ...
+*/
+<p>This demo will show you how to: add geodata to a leaflet map in the MCSDSS framework.</p> 
