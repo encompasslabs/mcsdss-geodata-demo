@@ -1,0 +1,12 @@
+---
+ name: The Name of the Demo
+ description: A demo of the MCSDSS leaflet map using geoJSON to display data.
+ authors:
+   - John Gentle
+   - Suzanne Pierce
+ resources:
+   - /js/empty.js
+   - /css/normalize.css
+ normalize_css: yes
+ lang_css: CSS
+ ...
